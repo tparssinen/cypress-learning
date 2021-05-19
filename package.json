@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tparssinen/cypress-learning/issues"
   },
-  "homepage": "https://github.com/tparssinen/cypress-learning#readme"
+  "homepage": "https://github.com/tparssinen/cypress-learning#readme",
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
 }
